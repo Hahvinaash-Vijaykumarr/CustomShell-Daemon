@@ -33,7 +33,7 @@ After building, you can start the shell by running:
 
 From there, you can execute built-in commands and any of the included system programs (e.g., `find`, `ld`, `ldr`).
 
-## System Programs
+## BuiltIn Functions Supported
 
 The shell supports the following built-in commands:
 `cd`: Changes the current directory of the shell to the specified path. If no path is given, it defaults to the user's home directory.
@@ -57,7 +57,6 @@ The shell supports the following built-in commands:
 - `browse`: Launches browser with the specified URL.
 - Prompt Decoration: The shell prompt displays useful information such as the current user, time and current working directory, in a user-friendly colour palette.
 - Calendar Function: Displays a calender, showing the current date, month and year once the cseshell starts
-
 
 ## Sustainability and Inclusivity Considerations
 In designing CSEShell, sustainability and inclusivity considerations were addressed through:
